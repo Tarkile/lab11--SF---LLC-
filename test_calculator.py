@@ -1,3 +1,7 @@
+# https://github.com/Tarkile/lab11--SF---LLC-
+# partner 1: Samuel Finlinson
+# partner 2: Leonardo Lopez-Casula
+
 import unittest
 from calculator import *
 
