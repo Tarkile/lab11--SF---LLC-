@@ -33,9 +33,9 @@ def div(a, b):
     return a / b
 
 def logarithm(a, b):
-    if a <= 0 or b <= 0 or b == 1:
+    if a <= 0 or b <= 0 or a == 1:
         raise ValueError("Logarithm inputs must be positive and base cannot be 1")
-    return math.log(a, b)
+    return math.log(b, a)
 
 def exp(a, b):
     return a ** b
