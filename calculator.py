@@ -1,9 +1,3 @@
-"""
-calculator.py
-- Defines functions used to create a simple calculator
-
-One function per operation, in order.
-"""
 # https://github.com/Tarkile/lab11--SF---LLC-
 # partner 1: Samuel Finlinson
 # partner 2: Leonardo Lopez-Casula
